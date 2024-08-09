@@ -4,4 +4,5 @@ The simulation is created using object-oriented programming principles and makes
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-![image](https://user-images.githubusercontent.com/126409186/229159862-13dad8bc-20df-4339-9b90-31c76f74bad7.png)
+You can access it here (use Google Chrome!):
+https://drashtipatel0913.github.io/Animation-with-ThreeJs
